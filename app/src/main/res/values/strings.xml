@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downloading Picture</string>
+    <string name="text_url">Paste your URL here</string>
+    <string name="download_button">Download</string>
+</resources>
